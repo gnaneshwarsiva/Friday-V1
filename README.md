@@ -1,17 +1,16 @@
-# FRIDAY AI Assistant
+# Friday-V1
 
-An AI-powered desktop assistant inspired by F.R.I.D.A.Y.
+AI-powered voice assistant inspired by F.R.I.D.A.Y.
 
 ## Features
 
 - Voice Recognition
-- Wake Word Detection
 - Text To Speech
-- Local LLM Integration
-- System Automation
-- Memory Storage
+- Wake Word Detection
+- Application Control
 - Weather Information
-- App Control
+- Local LLM Support
+- Memory System
 
 ## Tech Stack
 
